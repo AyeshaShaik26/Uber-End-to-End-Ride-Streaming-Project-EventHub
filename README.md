@@ -53,6 +53,8 @@ Source → Azure Event Hub → Azure Data Factory → Azure Data Lake Storage �
 
 * Star Schema implementation
 * Fact and Dimension tables
+* Set up ETL pipeline schedule in jobs and added dependencies to relevant notebooks
+* Set up trigger for every 2 minutes to get stream data from event hubs
 
 ## Slowly Changing Dimensions (SCD Type 2)
 
