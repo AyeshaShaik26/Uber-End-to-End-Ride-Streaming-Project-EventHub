@@ -1,6 +1,7 @@
 # Uber-End-to-End-Ride-Streaming-Project-EventHub
 
 <img width="1226" height="687" alt="image" src="https://github.com/user-attachments/assets/a1b6299f-0068-4923-a86c-8cd1ece38942" />
+
 ## Overview
 
 This project demonstrates a complete end-to-end Data Engineering solution built on Azure and Databricks. The pipeline ingests real-time ride events, processes streaming data using PySpark Structured Streaming, applies Slowly Changing Dimension (SCD Type 2) logic, and builds analytical datasets using a Medallion Architecture.
