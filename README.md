@@ -47,6 +47,7 @@ Source → Azure Event Hub → Azure Data Factory → Azure Data Lake Storage �
 * Data cleansing and validation
 * Business rule implementation
 * Deduplication and standardization
+* Jinja Template creation with SQL integration (config based)
 
 ### Gold Layer
 
