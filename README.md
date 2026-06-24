@@ -95,6 +95,8 @@ Architecture/
 Data/
 databrick/
 Screenshots/
+ADF/
+Sample_Data/
 README.md
 ```
 
