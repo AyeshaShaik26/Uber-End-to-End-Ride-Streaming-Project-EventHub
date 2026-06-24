@@ -9,7 +9,7 @@ This project demonstrates a complete end-to-end Data Engineering solution built 
 
 ## Architecture
 
-Source → Azure Event Hub → Azure Data Factory → Azure Data Lake Storage → Databricks Structured Streaming → Bronze Layer → Silver Layer → Gold Layer → Analytics & KPI Views
+Source → Azure Event Hub → Azure Data Factory → Azure Data Lake Storage → Databricks Structured Streaming → Bronze Layer → Silver Layer(SDP) → Gold Layer(SDP) → Analytics & KPI Views
 
 ## Tech Stack
 
