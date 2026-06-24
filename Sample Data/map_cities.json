@@ -1,0 +1,72 @@
+[
+  {
+    "city_id": 1,
+    "city": "old New York",
+    "state": "NY",
+    "region": "Northeast",
+    "updated_at": "2026-06-24T17:42:23.203+00:00"
+  },
+  {
+    "city_id": 2,
+    "city": "old Los vegas",
+    "state": "CA",
+    "region": "West",
+    "updated_at": "2026-06-24T17:42:23.203+00:00"
+  },
+  {
+    "city_id": 3,
+    "city": "old Chicago",
+    "state": "IL",
+    "region": "Midwest",
+    "updated_at": "2026-06-24T17:42:23.203+00:00"
+  },
+  {
+    "city_id": 4,
+    "city": "old Houston",
+    "state": "TX",
+    "region": "South",
+    "updated_at": "2026-06-24T17:42:23.203+00:00"
+  },
+  {
+    "city_id": 5,
+    "city": "old Phoenix",
+    "state": "AZ",
+    "region": "Southwest",
+    "updated_at": "2026-06-24T17:42:23.203+00:00"
+  },
+  {
+    "city_id": 6,
+    "city": "old Philadelphia",
+    "state": "PA",
+    "region": "Northeast",
+    "updated_at": "2026-06-24T17:42:23.203+00:00"
+  },
+  {
+    "city_id": 7,
+    "city": "old San Antonio",
+    "state": "TX",
+    "region": "South",
+    "updated_at": "2026-06-24T17:42:23.203+00:00"
+  },
+  {
+    "city_id": 8,
+    "city": "old San Diego",
+    "state": "CA",
+    "region": "West",
+    "updated_at": "2026-06-24T17:42:23.203+00:00"
+  },
+  {
+    "city_id": 9,
+    "city": "old Dallas",
+    "state": "TX",
+    "region": "South",
+    "updated_at": "2026-06-24T17:42:23.203+00:00"
+  },
+  {
+    "city_id": 10,
+    "city": "old San Jose",
+    "state": "CA",
+    "region": "West",
+    "updated_at": "2026-06-24T17:42:23.203+00:00"
+  }
+]
