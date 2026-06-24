@@ -1,4 +1,4 @@
-# Uber-End-to-End-Ride-Streaming-Project-EventHub
+<img width="1226" height="687" alt="image" src="https://github.com/user-attachments/assets/a1b6299f-0068-4923-a86c-8cd1ece38942" /># Uber-End-to-End-Ride-Streaming-Project-EventHub
 
 ## Overview
 
@@ -108,3 +108,6 @@ README.md
 Ayesha Shaik
 
 Azure Data Engineer | Databricks | PySpark | dbt | Azure Data Factory
+
+<img width="1226" height="687" alt="image" src="https://github.com/user-attachments/assets/397288ce-10f6-4abc-adb4-5055d8849317" />
+
