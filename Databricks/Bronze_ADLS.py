@@ -1,7 +1,7 @@
 # Databricks notebook source
 import pandas as pd
 
-df = pd.read_json('https://datalakeuberprojectaysh.blob.core.windows.net/raw/ingestion/map_cities.json?sp=r&st=2026-06-22T13:59:01Z&se=2026-06-28T10:14:01Z&spr=https&sv=2026-02-06&sr=c&sig=gAg6Yn%2FAmUy54wfXAT1QuqlIwJYiqpT%2BgAreWxAZZOk%3D')
+df = pd.read_json('https://datalakeuberprojectaysh.blob.core.windows.net/raw/ingestion/map_cities.json?sp=r&AZZOk%3D')
 
 df_spark = spark.createDataFrame(df)
 display(df_spark)
@@ -22,7 +22,7 @@ files = [
  
 for file in files:
 
-    url = f'https://datalakeuberprojectaysh.blob.core.windows.net/raw/ingestion/{file["file"]}.json?sp=r&st=2026-06-22T13:59:01Z&se=2026-06-28T10:14:01Z&spr=https&sv=2026-02-06&sr=c&sig=gAg6Yn%2FAmUy54wfXAT1QuqlIwJYiqpT%2BgAreWxAZZOk%3D'
+    url = f'https://datalakeuberprojectaysh.blob.core.windows.net/raw/ingestion/{file["file"]}.json?sp=xAZZOk%3D'
 
     df_ = pd.read_json(url)
     df_spark = spark.createDataFrame(df_)
